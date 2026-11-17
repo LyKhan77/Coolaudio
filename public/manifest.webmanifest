@@ -1,0 +1,30 @@
+{
+  "name": "Coolaudio · Local MP4 & MP3 Studio",
+  "short_name": "Coolaudio",
+  "description": "100% client-side MP4/MP3 converter, trimmer, compressor, and GIF studio powered by FFmpeg.wasm.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f4bff",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

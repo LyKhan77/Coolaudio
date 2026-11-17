@@ -1,0 +1,12 @@
+node_modules
+dist
+public/ffmpeg
+temp
+.playwright-mcp
+.vercel
+*.local
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
